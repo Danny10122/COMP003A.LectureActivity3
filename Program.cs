@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("SECTION A - Academic Term Identification");
+            Console.WriteLine("Current Month: ");
             int currentMonth = int.Parse(Console.ReadLine());
 
             if (currentMonth >= 1 && currentMonth <= 5)
@@ -21,6 +22,16 @@
             }
 
             Console.WriteLine("\nSECTION B - Campus Access Check");
+            Console.WriteLine("Enter your age: ");
+            int age = int.Parse(Console.ReadLine());
+            Console.WriteLine("Are");
+
+            if()
+            {
+                
+            }
+
+
 
             Console.WriteLine("SECTION C - Semester Code Lookup");
 
